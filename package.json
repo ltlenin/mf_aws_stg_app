@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.5",
     "jquery": "^3.4.1",
-    "proxy": "http://127.0.0.1:8000",
+    "proxy": "http://mfapistg.us-east-1.elasticbeanstalk.com",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.11",
     "react-dom": "^16.9.0",
